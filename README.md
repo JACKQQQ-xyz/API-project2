@@ -26,9 +26,10 @@ Struktur data siswa:
 
 ```json
 {
-  "id": number,
-  "title": string,
-  "status": string
+  nisn: "string",
+  nama: "string",
+  alamat: "string",
+  umur: 0
 }
 ````
 
